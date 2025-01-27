@@ -13,12 +13,21 @@ brain-progression - Арифметическая прогрессия
 brain-prime - Простое ли число?
 
 Игра "Проверка на четность"
+
 https://asciinema.org/a/qMeKyadeMFFaQJL1VYgSxwEx8
+
 Игра "Калькулятор"
+
 https://asciinema.org/a/1iUFHR5XVdDSRc1R7NmDujF0o
+
 Игра "НОД"
+
 https://asciinema.org/a/VJwloQ1Du5KpVPDi2OgZBu6XA
+
 Игра "Арифметичкая прогрессия"
+
 https://asciinema.org/a/jr16hAtSOtZSlZQJLsYFLGyUC
+
 Игра "Простое ли число?"
+
 https://asciinema.org/a/mKy999UQy2a6KtgAtoIb1TgYu
