@@ -1,8 +1,12 @@
 [tool.poetry]
-name = "brain-games"
+name = "hexlet-code"
 version = "0.1.0"
 description = ""
 authors = ["Artem <witcher9012@rambler.ru>"]
+
+packages = [
+  { include = "brain_games" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"
