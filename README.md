@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Witcher9012/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Witcher9012/python-project-49/actions)
+
 Запуск игр
 
 brain-even - Проверка на чётность
