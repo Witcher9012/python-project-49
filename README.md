@@ -13,22 +13,26 @@ brain-progression - Арифметическая прогрессия
 
 brain-prime - Простое ли число?
 
+Установка и первый запуск
+
+<a href="https://asciinema.org/a/j1hBsX1hst4JSLo6hcMtIugua" target="_blank"><img src="https://asciinema.org/a/j1hBsX1hst4JSLo6hcMtIugua.svg" /></a>
+
 Игра "Проверка на четность"
 
 <a href="https://asciinema.org/a/qMeKyadeMFFaQJL1VYgSxwEx8" target="_blank"><img src="https://asciinema.org/a/qMeKyadeMFFaQJL1VYgSxwEx8.svg" /></a>
 
 Игра "Калькулятор"
 
-https://asciinema.org/a/1iUFHR5XVdDSRc1R7NmDujF0o
+<a href="https://asciinema.org/a/1iUFHR5XVdDSRc1R7NmDujF0o" target="_blank"><img src="https://asciinema.org/a/1iUFHR5XVdDSRc1R7NmDujF0o.svg" /></a>
 
 Игра "НОД"
 
-https://asciinema.org/a/VJwloQ1Du5KpVPDi2OgZBu6XA
+<a href="https://asciinema.org/a/VJwloQ1Du5KpVPDi2OgZBu6XA" target="_blank"><img src="https://asciinema.org/a/VJwloQ1Du5KpVPDi2OgZBu6XA.svg" /></a>
 
 Игра "Арифметичкая прогрессия"
 
-https://asciinema.org/a/jr16hAtSOtZSlZQJLsYFLGyUC
+<a href="https://asciinema.org/a/jr16hAtSOtZSlZQJLsYFLGyUC" target="_blank"><img src="https://asciinema.org/a/jr16hAtSOtZSlZQJLsYFLGyUC.svg" /></a>
 
 Игра "Простое ли число?"
 
-https://asciinema.org/a/mKy999UQy2a6KtgAtoIb1TgYu
+<a href="https://asciinema.org/a/mKy999UQy2a6KtgAtoIb1TgYu" target="_blank"><img src="https://asciinema.org/a/mKy999UQy2a6KtgAtoIb1TgYu.svg" /></a>
