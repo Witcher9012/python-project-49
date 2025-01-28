@@ -15,7 +15,7 @@ brain-prime - Простое ли число?
 
 Игра "Проверка на четность"
 
-https://asciinema.org/a/qMeKyadeMFFaQJL1VYgSxwEx8
+<a href="https://asciinema.org/a/qMeKyadeMFFaQJL1VYgSxwEx8" target="_blank"><img src="https://asciinema.org/a/qMeKyadeMFFaQJL1VYgSxwEx8.svg" /></a>
 
 Игра "Калькулятор"
 
