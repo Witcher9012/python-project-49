@@ -6,11 +6,11 @@ DESCRIPTION = 'Answer "yes" if given number is prime. ' \
 
 def is_prime(number):
     if number == 1:
-        return "no"
+        false
     for i in range(2, (number // 2 + 1)):
         if number % i == 0:
-            return "no"
-    return "yes"
+            false
+    return true
 
 
 def make_question_and_correct_answer():

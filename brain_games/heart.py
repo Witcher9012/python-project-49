@@ -1,3 +1,4 @@
+from brain_games.cli import welcome_user
 import prompt
 
 MAX_ROUNDS = 3
@@ -5,8 +6,7 @@ MAX_ROUNDS = 3
 
 def run_game(game_name):
     print("Welcome to the Brain Games!")
-    user_name = prompt.string("May I have your name? ")
-    print(f"Hello, {user_name}!")
+    welcome_user()
     print(game_name.DESCRIPTION)
     round_number = 1
     while round_number <= MAX_ROUNDS:
@@ -17,8 +17,6 @@ def run_game(game_name):
             print(f"'{user_answer}' is wrong answer ;(. "
                   f"Correct answer was '{correct_answer}'.\n"
                   f"Let\'s try again, {user_name}!")
-            break
+            return
         print("Correct!")
         round_number += 1
-    else:
-        print(f"Congratulations, {user_name}!")
