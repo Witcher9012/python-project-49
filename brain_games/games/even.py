@@ -9,7 +9,7 @@ def make_question_and_correct_answer():
     number = randint(min_number, max_number)
     question = str(number)
     if number % 2 == 0:
-        correct_answer = 'yes'
+        true
     else:
-        correct_answer = 'no'
+        false
     return question, correct_answer
