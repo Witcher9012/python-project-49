@@ -6,10 +6,10 @@ DESCRIPTION = 'Answer "yes" if given number is prime. ' \
 
 def is_prime(number):
     if number == 1:
-        false
+        return false
     for i in range(2, (number // 2 + 1)):
         if number % i == 0:
-            false
+            return false
     return true
 
 
